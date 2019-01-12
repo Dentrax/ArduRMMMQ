@@ -1,7 +1,7 @@
-<h1 align="center">ArduRMMMQ for Arduino® FreeRTOS with MagicMirror²</h1>
+<h1 align="center">ArduRMMMQ for Arduino® FreeRTOS</h1>
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 **Ardu[R]eal-Time Operating System [MM] Magic Mirror [MQ] MQ Gas Sensor**
 
@@ -43,7 +43,7 @@ Click here for **[The FreeRTOS Kernel](https://www.freertos.org/)**
 
 ArduRMMMQ teaches you how multiple sensors will work at the same time using Arduino FreeRTOS. It will contribute greatly to both a hobby and a school lesson.
 
-### Woking Video
+### Woking Video (YouTube)
 
 [![Working video](screenshots/thumbnail.png?raw=true "Screenshot")](https://youtu.be/XVS2n29XugQ)
 
